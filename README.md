@@ -13,5 +13,5 @@ npm i common-utils
 2. 使用 Validate 校验函数
 ```js
 import { Validate } from 'common-utils'
-const mobile = '17726366787'
+const mobile = '17726366789'
 Validate.mobileCheck(mobile) //true
