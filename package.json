@@ -1,5 +1,5 @@
 {
-  "name": "common-utils",
+  "name": "owner-utils",
   "version": "1.0.1",
   "description": "utils",
   "main": "./lib/",
