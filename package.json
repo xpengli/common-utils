@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xpengli/common-utils.git"
+    "url": "https://github.com/xpengli/common-utils.git"
   },
   "author": "leo",
   "license": "ISC"
