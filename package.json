@@ -1,6 +1,6 @@
 {
   "name": "owner-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个封装了 JS 的一些常用方法的工具",
   "main": "./lib/",
   "scripts": {
